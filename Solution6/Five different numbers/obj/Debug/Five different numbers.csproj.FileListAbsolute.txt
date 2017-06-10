@@ -1,0 +1,6 @@
+C:\Users\Petko\Documents\Visual Studio 2015\Projects\Solution6\Five different numbers\bin\Debug\Five different numbers.exe.config
+C:\Users\Petko\Documents\Visual Studio 2015\Projects\Solution6\Five different numbers\bin\Debug\Five different numbers.exe
+C:\Users\Petko\Documents\Visual Studio 2015\Projects\Solution6\Five different numbers\bin\Debug\Five different numbers.pdb
+C:\Users\Petko\Documents\Visual Studio 2015\Projects\Solution6\Five different numbers\obj\Debug\Five different numbers.csprojResolveAssemblyReference.cache
+C:\Users\Petko\Documents\Visual Studio 2015\Projects\Solution6\Five different numbers\obj\Debug\Five different numbers.exe
+C:\Users\Petko\Documents\Visual Studio 2015\Projects\Solution6\Five different numbers\obj\Debug\Five different numbers.pdb

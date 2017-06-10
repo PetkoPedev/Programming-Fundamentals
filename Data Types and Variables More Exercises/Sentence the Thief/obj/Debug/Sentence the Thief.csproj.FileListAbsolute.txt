@@ -1,0 +1,5 @@
+c:\users\petko\documents\visual studio 2015\Projects\Data Types and Variables More Exercises\Sentence the Thief\bin\Debug\Sentence the Thief.exe.config
+c:\users\petko\documents\visual studio 2015\Projects\Data Types and Variables More Exercises\Sentence the Thief\bin\Debug\Sentence the Thief.exe
+c:\users\petko\documents\visual studio 2015\Projects\Data Types and Variables More Exercises\Sentence the Thief\bin\Debug\Sentence the Thief.pdb
+c:\users\petko\documents\visual studio 2015\Projects\Data Types and Variables More Exercises\Sentence the Thief\obj\Debug\Sentence the Thief.exe
+c:\users\petko\documents\visual studio 2015\Projects\Data Types and Variables More Exercises\Sentence the Thief\obj\Debug\Sentence the Thief.pdb

@@ -1,0 +1,5 @@
+c:\users\petko\documents\visual studio 2015\Projects\Data Types and Variables\Triples of latin letters\bin\Debug\Triples of latin letters.exe.config
+c:\users\petko\documents\visual studio 2015\Projects\Data Types and Variables\Triples of latin letters\bin\Debug\Triples of latin letters.exe
+c:\users\petko\documents\visual studio 2015\Projects\Data Types and Variables\Triples of latin letters\bin\Debug\Triples of latin letters.pdb
+c:\users\petko\documents\visual studio 2015\Projects\Data Types and Variables\Triples of latin letters\obj\Debug\Triples of latin letters.exe
+c:\users\petko\documents\visual studio 2015\Projects\Data Types and Variables\Triples of latin letters\obj\Debug\Triples of latin letters.pdb

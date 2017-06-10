@@ -1,0 +1,6 @@
+c:\users\petko\documents\visual studio 2015\Projects\Data variables exersises\Integer to Hex and Binary\bin\Debug\Integer to Hex and Binary.exe.config
+c:\users\petko\documents\visual studio 2015\Projects\Data variables exersises\Integer to Hex and Binary\obj\Debug\Integer to Hex and Binary.csprojResolveAssemblyReference.cache
+c:\users\petko\documents\visual studio 2015\Projects\Data variables exersises\Integer to Hex and Binary\bin\Debug\Integer to Hex and Binary.exe
+c:\users\petko\documents\visual studio 2015\Projects\Data variables exersises\Integer to Hex and Binary\bin\Debug\Integer to Hex and Binary.pdb
+c:\users\petko\documents\visual studio 2015\Projects\Data variables exersises\Integer to Hex and Binary\obj\Debug\Integer to Hex and Binary.exe
+c:\users\petko\documents\visual studio 2015\Projects\Data variables exersises\Integer to Hex and Binary\obj\Debug\Integer to Hex and Binary.pdb

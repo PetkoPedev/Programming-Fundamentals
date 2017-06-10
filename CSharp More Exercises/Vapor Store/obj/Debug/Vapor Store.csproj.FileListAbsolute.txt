@@ -1,0 +1,6 @@
+c:\users\petko\documents\visual studio 2015\Projects\CSharp More Exercises\Vapor Store\bin\Debug\Vapor Store.exe.config
+c:\users\petko\documents\visual studio 2015\Projects\CSharp More Exercises\Vapor Store\bin\Debug\Vapor Store.exe
+c:\users\petko\documents\visual studio 2015\Projects\CSharp More Exercises\Vapor Store\bin\Debug\Vapor Store.pdb
+c:\users\petko\documents\visual studio 2015\Projects\CSharp More Exercises\Vapor Store\obj\Debug\Vapor Store.csprojResolveAssemblyReference.cache
+c:\users\petko\documents\visual studio 2015\Projects\CSharp More Exercises\Vapor Store\obj\Debug\Vapor Store.exe
+c:\users\petko\documents\visual studio 2015\Projects\CSharp More Exercises\Vapor Store\obj\Debug\Vapor Store.pdb

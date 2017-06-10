@@ -1,0 +1,6 @@
+C:\Users\Petko\Documents\Visual Studio 2015\Projects\More Complex Conditional Statements\Point-in-the-Figure\bin\Debug\Point-in-the-Figure.exe.config
+C:\Users\Petko\Documents\Visual Studio 2015\Projects\More Complex Conditional Statements\Point-in-the-Figure\bin\Debug\Point-in-the-Figure.exe
+C:\Users\Petko\Documents\Visual Studio 2015\Projects\More Complex Conditional Statements\Point-in-the-Figure\bin\Debug\Point-in-the-Figure.pdb
+C:\Users\Petko\Documents\Visual Studio 2015\Projects\More Complex Conditional Statements\Point-in-the-Figure\obj\Debug\Point-in-the-Figure.csprojResolveAssemblyReference.cache
+C:\Users\Petko\Documents\Visual Studio 2015\Projects\More Complex Conditional Statements\Point-in-the-Figure\obj\Debug\Point-in-the-Figure.exe
+C:\Users\Petko\Documents\Visual Studio 2015\Projects\More Complex Conditional Statements\Point-in-the-Figure\obj\Debug\Point-in-the-Figure.pdb

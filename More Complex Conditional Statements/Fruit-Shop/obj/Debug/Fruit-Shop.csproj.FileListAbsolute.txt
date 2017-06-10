@@ -1,0 +1,6 @@
+C:\Users\Petko\Documents\Visual Studio 2015\Projects\More Complex Conditional Statements\Fruit-Shop\bin\Debug\Fruit-Shop.exe.config
+C:\Users\Petko\Documents\Visual Studio 2015\Projects\More Complex Conditional Statements\Fruit-Shop\bin\Debug\Fruit-Shop.exe
+C:\Users\Petko\Documents\Visual Studio 2015\Projects\More Complex Conditional Statements\Fruit-Shop\bin\Debug\Fruit-Shop.pdb
+C:\Users\Petko\Documents\Visual Studio 2015\Projects\More Complex Conditional Statements\Fruit-Shop\obj\Debug\Fruit-Shop.csprojResolveAssemblyReference.cache
+C:\Users\Petko\Documents\Visual Studio 2015\Projects\More Complex Conditional Statements\Fruit-Shop\obj\Debug\Fruit-Shop.exe
+C:\Users\Petko\Documents\Visual Studio 2015\Projects\More Complex Conditional Statements\Fruit-Shop\obj\Debug\Fruit-Shop.pdb

@@ -1,0 +1,6 @@
+C:\Users\Petko\documents\visual studio 2015\Projects\Data Types and Variables More Exercises\Beer Kegs\bin\Debug\Beer Kegs.exe.config
+C:\Users\Petko\documents\visual studio 2015\Projects\Data Types and Variables More Exercises\Beer Kegs\bin\Debug\Beer Kegs.exe
+C:\Users\Petko\documents\visual studio 2015\Projects\Data Types and Variables More Exercises\Beer Kegs\bin\Debug\Beer Kegs.pdb
+C:\Users\Petko\documents\visual studio 2015\Projects\Data Types and Variables More Exercises\Beer Kegs\obj\Debug\Beer Kegs.csprojResolveAssemblyReference.cache
+C:\Users\Petko\documents\visual studio 2015\Projects\Data Types and Variables More Exercises\Beer Kegs\obj\Debug\Beer Kegs.exe
+C:\Users\Petko\documents\visual studio 2015\Projects\Data Types and Variables More Exercises\Beer Kegs\obj\Debug\Beer Kegs.pdb

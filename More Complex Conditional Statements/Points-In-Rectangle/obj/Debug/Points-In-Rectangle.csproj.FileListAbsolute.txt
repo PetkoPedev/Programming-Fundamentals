@@ -1,0 +1,6 @@
+c:\users\petko\documents\visual studio 2015\Projects\More Complex Conditional Statements\Points-In-Rectangle\bin\Debug\Points-In-Rectangle.exe.config
+c:\users\petko\documents\visual studio 2015\Projects\More Complex Conditional Statements\Points-In-Rectangle\bin\Debug\Points-In-Rectangle.exe
+c:\users\petko\documents\visual studio 2015\Projects\More Complex Conditional Statements\Points-In-Rectangle\bin\Debug\Points-In-Rectangle.pdb
+c:\users\petko\documents\visual studio 2015\Projects\More Complex Conditional Statements\Points-In-Rectangle\obj\Debug\Points-In-Rectangle.csprojResolveAssemblyReference.cache
+c:\users\petko\documents\visual studio 2015\Projects\More Complex Conditional Statements\Points-In-Rectangle\obj\Debug\Points-In-Rectangle.exe
+c:\users\petko\documents\visual studio 2015\Projects\More Complex Conditional Statements\Points-In-Rectangle\obj\Debug\Points-In-Rectangle.pdb

@@ -1,0 +1,6 @@
+c:\users\petko\documents\visual studio 2015\Projects\Data variables exersises\Thea the photographer\bin\Debug\Thea the photographer.exe.config
+c:\users\petko\documents\visual studio 2015\Projects\Data variables exersises\Thea the photographer\bin\Debug\Thea the photographer.exe
+c:\users\petko\documents\visual studio 2015\Projects\Data variables exersises\Thea the photographer\bin\Debug\Thea the photographer.pdb
+c:\users\petko\documents\visual studio 2015\Projects\Data variables exersises\Thea the photographer\obj\Debug\Thea the photographer.csprojResolveAssemblyReference.cache
+c:\users\petko\documents\visual studio 2015\Projects\Data variables exersises\Thea the photographer\obj\Debug\Thea the photographer.exe
+c:\users\petko\documents\visual studio 2015\Projects\Data variables exersises\Thea the photographer\obj\Debug\Thea the photographer.pdb

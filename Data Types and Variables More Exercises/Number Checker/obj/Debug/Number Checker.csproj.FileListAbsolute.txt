@@ -1,0 +1,6 @@
+c:\users\petko\documents\visual studio 2015\Projects\Data Types and Variables More Exercises\Number Checker\bin\Debug\Number Checker.exe.config
+c:\users\petko\documents\visual studio 2015\Projects\Data Types and Variables More Exercises\Number Checker\bin\Debug\Number Checker.exe
+c:\users\petko\documents\visual studio 2015\Projects\Data Types and Variables More Exercises\Number Checker\bin\Debug\Number Checker.pdb
+c:\users\petko\documents\visual studio 2015\Projects\Data Types and Variables More Exercises\Number Checker\obj\Debug\Number Checker.csprojResolveAssemblyReference.cache
+c:\users\petko\documents\visual studio 2015\Projects\Data Types and Variables More Exercises\Number Checker\obj\Debug\Number Checker.exe
+c:\users\petko\documents\visual studio 2015\Projects\Data Types and Variables More Exercises\Number Checker\obj\Debug\Number Checker.pdb

@@ -1,0 +1,6 @@
+c:\users\petko\documents\visual studio 2015\Projects\Conditional Statements\Theatre Promotions\bin\Debug\Theatre Promotions.exe.config
+c:\users\petko\documents\visual studio 2015\Projects\Conditional Statements\Theatre Promotions\bin\Debug\Theatre Promotions.exe
+c:\users\petko\documents\visual studio 2015\Projects\Conditional Statements\Theatre Promotions\bin\Debug\Theatre Promotions.pdb
+c:\users\petko\documents\visual studio 2015\Projects\Conditional Statements\Theatre Promotions\obj\Debug\Theatre Promotions.csprojResolveAssemblyReference.cache
+c:\users\petko\documents\visual studio 2015\Projects\Conditional Statements\Theatre Promotions\obj\Debug\Theatre Promotions.exe
+c:\users\petko\documents\visual studio 2015\Projects\Conditional Statements\Theatre Promotions\obj\Debug\Theatre Promotions.pdb

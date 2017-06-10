@@ -1,0 +1,5 @@
+c:\users\petko\documents\visual studio 2015\Projects\Data variables exersises\Reverse Characters\bin\Debug\Reverse Characters.exe.config
+c:\users\petko\documents\visual studio 2015\Projects\Data variables exersises\Reverse Characters\bin\Debug\Reverse Characters.exe
+c:\users\petko\documents\visual studio 2015\Projects\Data variables exersises\Reverse Characters\bin\Debug\Reverse Characters.pdb
+c:\users\petko\documents\visual studio 2015\Projects\Data variables exersises\Reverse Characters\obj\Debug\Reverse Characters.exe
+c:\users\petko\documents\visual studio 2015\Projects\Data variables exersises\Reverse Characters\obj\Debug\Reverse Characters.pdb

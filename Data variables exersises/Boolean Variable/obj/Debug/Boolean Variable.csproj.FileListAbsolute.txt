@@ -1,0 +1,5 @@
+c:\users\petko\documents\visual studio 2015\Projects\Data variables exersises\Boolean Variable\bin\Debug\Boolean Variable.exe.config
+c:\users\petko\documents\visual studio 2015\Projects\Data variables exersises\Boolean Variable\bin\Debug\Boolean Variable.exe
+c:\users\petko\documents\visual studio 2015\Projects\Data variables exersises\Boolean Variable\bin\Debug\Boolean Variable.pdb
+c:\users\petko\documents\visual studio 2015\Projects\Data variables exersises\Boolean Variable\obj\Debug\Boolean Variable.exe
+c:\users\petko\documents\visual studio 2015\Projects\Data variables exersises\Boolean Variable\obj\Debug\Boolean Variable.pdb

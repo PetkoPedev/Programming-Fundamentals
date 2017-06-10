@@ -1,0 +1,5 @@
+C:\Users\Petko\documents\visual studio 2015\Projects\Data Types and Variables More Exercises\String Concatenation\bin\Debug\String Concatenation.exe.config
+C:\Users\Petko\documents\visual studio 2015\Projects\Data Types and Variables More Exercises\String Concatenation\bin\Debug\String Concatenation.exe
+C:\Users\Petko\documents\visual studio 2015\Projects\Data Types and Variables More Exercises\String Concatenation\bin\Debug\String Concatenation.pdb
+C:\Users\Petko\documents\visual studio 2015\Projects\Data Types and Variables More Exercises\String Concatenation\obj\Debug\String Concatenation.exe
+C:\Users\Petko\documents\visual studio 2015\Projects\Data Types and Variables More Exercises\String Concatenation\obj\Debug\String Concatenation.pdb

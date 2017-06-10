@@ -1,0 +1,6 @@
+c:\users\petko\documents\visual studio 2015\Projects\Conditional Statements\Multiplication Table\bin\Debug\Multiplication Table.exe.config
+c:\users\petko\documents\visual studio 2015\Projects\Conditional Statements\Multiplication Table\bin\Debug\Multiplication Table.exe
+c:\users\petko\documents\visual studio 2015\Projects\Conditional Statements\Multiplication Table\bin\Debug\Multiplication Table.pdb
+c:\users\petko\documents\visual studio 2015\Projects\Conditional Statements\Multiplication Table\obj\Debug\Multiplication Table.csprojResolveAssemblyReference.cache
+c:\users\petko\documents\visual studio 2015\Projects\Conditional Statements\Multiplication Table\obj\Debug\Multiplication Table.exe
+c:\users\petko\documents\visual studio 2015\Projects\Conditional Statements\Multiplication Table\obj\Debug\Multiplication Table.pdb

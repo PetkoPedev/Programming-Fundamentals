@@ -1,0 +1,5 @@
+c:\users\petko\documents\visual studio 2015\Projects\Conditional Statements\Multiplication table 2\bin\Debug\Multiplication table 2.exe.config
+c:\users\petko\documents\visual studio 2015\Projects\Conditional Statements\Multiplication table 2\bin\Debug\Multiplication table 2.exe
+c:\users\petko\documents\visual studio 2015\Projects\Conditional Statements\Multiplication table 2\bin\Debug\Multiplication table 2.pdb
+c:\users\petko\documents\visual studio 2015\Projects\Conditional Statements\Multiplication table 2\obj\Debug\Multiplication table 2.exe
+c:\users\petko\documents\visual studio 2015\Projects\Conditional Statements\Multiplication table 2\obj\Debug\Multiplication table 2.pdb

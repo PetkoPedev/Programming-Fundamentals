@@ -1,0 +1,6 @@
+c:\users\petko\documents\visual studio 2015\Projects\Solution6\Test numbers\bin\Debug\Test numbers.exe.config
+c:\users\petko\documents\visual studio 2015\Projects\Solution6\Test numbers\bin\Debug\Test numbers.exe
+c:\users\petko\documents\visual studio 2015\Projects\Solution6\Test numbers\bin\Debug\Test numbers.pdb
+c:\users\petko\documents\visual studio 2015\Projects\Solution6\Test numbers\obj\Debug\Test numbers.csprojResolveAssemblyReference.cache
+c:\users\petko\documents\visual studio 2015\Projects\Solution6\Test numbers\obj\Debug\Test numbers.exe
+c:\users\petko\documents\visual studio 2015\Projects\Solution6\Test numbers\obj\Debug\Test numbers.pdb

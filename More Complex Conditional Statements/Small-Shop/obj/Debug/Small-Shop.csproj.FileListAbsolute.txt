@@ -1,0 +1,6 @@
+c:\users\petko\documents\visual studio 2015\Projects\More Complex Conditional Statements\Small-Shop\bin\Debug\Small-Shop.exe.config
+c:\users\petko\documents\visual studio 2015\Projects\More Complex Conditional Statements\Small-Shop\bin\Debug\Small-Shop.exe
+c:\users\petko\documents\visual studio 2015\Projects\More Complex Conditional Statements\Small-Shop\bin\Debug\Small-Shop.pdb
+c:\users\petko\documents\visual studio 2015\Projects\More Complex Conditional Statements\Small-Shop\obj\Debug\Small-Shop.csprojResolveAssemblyReference.cache
+c:\users\petko\documents\visual studio 2015\Projects\More Complex Conditional Statements\Small-Shop\obj\Debug\Small-Shop.exe
+c:\users\petko\documents\visual studio 2015\Projects\More Complex Conditional Statements\Small-Shop\obj\Debug\Small-Shop.pdb

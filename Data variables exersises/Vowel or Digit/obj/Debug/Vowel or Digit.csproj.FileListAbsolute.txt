@@ -1,0 +1,5 @@
+c:\users\petko\documents\visual studio 2015\Projects\Data variables exersises\Vowel or Digit\bin\Debug\Vowel or Digit.exe.config
+c:\users\petko\documents\visual studio 2015\Projects\Data variables exersises\Vowel or Digit\bin\Debug\Vowel or Digit.exe
+c:\users\petko\documents\visual studio 2015\Projects\Data variables exersises\Vowel or Digit\bin\Debug\Vowel or Digit.pdb
+c:\users\petko\documents\visual studio 2015\Projects\Data variables exersises\Vowel or Digit\obj\Debug\Vowel or Digit.exe
+c:\users\petko\documents\visual studio 2015\Projects\Data variables exersises\Vowel or Digit\obj\Debug\Vowel or Digit.pdb

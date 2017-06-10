@@ -1,0 +1,6 @@
+c:\users\petko\documents\visual studio 2015\Projects\Data variables exersises\Practice integer numbers\bin\Debug\Practice integer numbers.exe.config
+c:\users\petko\documents\visual studio 2015\Projects\Data variables exersises\Practice integer numbers\bin\Debug\Practice integer numbers.exe
+c:\users\petko\documents\visual studio 2015\Projects\Data variables exersises\Practice integer numbers\bin\Debug\Practice integer numbers.pdb
+c:\users\petko\documents\visual studio 2015\Projects\Data variables exersises\Practice integer numbers\obj\Debug\Practice integer numbers.csprojResolveAssemblyReference.cache
+c:\users\petko\documents\visual studio 2015\Projects\Data variables exersises\Practice integer numbers\obj\Debug\Practice integer numbers.exe
+c:\users\petko\documents\visual studio 2015\Projects\Data variables exersises\Practice integer numbers\obj\Debug\Practice integer numbers.pdb

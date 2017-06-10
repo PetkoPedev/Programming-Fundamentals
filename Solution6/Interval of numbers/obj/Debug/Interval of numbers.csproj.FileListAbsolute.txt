@@ -1,0 +1,6 @@
+c:\users\petko\documents\visual studio 2015\Projects\Solution6\Interval of numbers\bin\Debug\Interval of numbers.exe.config
+c:\users\petko\documents\visual studio 2015\Projects\Solution6\Interval of numbers\bin\Debug\Interval of numbers.exe
+c:\users\petko\documents\visual studio 2015\Projects\Solution6\Interval of numbers\bin\Debug\Interval of numbers.pdb
+c:\users\petko\documents\visual studio 2015\Projects\Solution6\Interval of numbers\obj\Debug\Interval of numbers.csprojResolveAssemblyReference.cache
+c:\users\petko\documents\visual studio 2015\Projects\Solution6\Interval of numbers\obj\Debug\Interval of numbers.exe
+c:\users\petko\documents\visual studio 2015\Projects\Solution6\Interval of numbers\obj\Debug\Interval of numbers.pdb

@@ -1,0 +1,5 @@
+c:\users\petko\documents\visual studio 2015\Projects\Data variables exersises\Strings and Objects\bin\Debug\Strings and Objects.exe.config
+c:\users\petko\documents\visual studio 2015\Projects\Data variables exersises\Strings and Objects\bin\Debug\Strings and Objects.exe
+c:\users\petko\documents\visual studio 2015\Projects\Data variables exersises\Strings and Objects\bin\Debug\Strings and Objects.pdb
+c:\users\petko\documents\visual studio 2015\Projects\Data variables exersises\Strings and Objects\obj\Debug\Strings and Objects.exe
+c:\users\petko\documents\visual studio 2015\Projects\Data variables exersises\Strings and Objects\obj\Debug\Strings and Objects.pdb

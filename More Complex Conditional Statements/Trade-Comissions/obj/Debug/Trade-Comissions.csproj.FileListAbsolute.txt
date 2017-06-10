@@ -1,0 +1,6 @@
+C:\Users\Petko\Documents\Visual Studio 2015\Projects\More Complex Conditional Statements\Trade-Comissions\bin\Debug\Trade-Comissions.exe.config
+C:\Users\Petko\Documents\Visual Studio 2015\Projects\More Complex Conditional Statements\Trade-Comissions\obj\Debug\Trade-Comissions.csprojResolveAssemblyReference.cache
+C:\Users\Petko\Documents\Visual Studio 2015\Projects\More Complex Conditional Statements\Trade-Comissions\bin\Debug\Trade-Comissions.exe
+C:\Users\Petko\Documents\Visual Studio 2015\Projects\More Complex Conditional Statements\Trade-Comissions\bin\Debug\Trade-Comissions.pdb
+C:\Users\Petko\Documents\Visual Studio 2015\Projects\More Complex Conditional Statements\Trade-Comissions\obj\Debug\Trade-Comissions.exe
+C:\Users\Petko\Documents\Visual Studio 2015\Projects\More Complex Conditional Statements\Trade-Comissions\obj\Debug\Trade-Comissions.pdb

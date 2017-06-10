@@ -1,0 +1,6 @@
+C:\Users\Petko\documents\visual studio 2015\Projects\Data Types and Variables More Exercises\Decrypting Message\bin\Debug\Decrypting Message.exe.config
+C:\Users\Petko\documents\visual studio 2015\Projects\Data Types and Variables More Exercises\Decrypting Message\bin\Debug\Decrypting Message.exe
+C:\Users\Petko\documents\visual studio 2015\Projects\Data Types and Variables More Exercises\Decrypting Message\bin\Debug\Decrypting Message.pdb
+C:\Users\Petko\documents\visual studio 2015\Projects\Data Types and Variables More Exercises\Decrypting Message\obj\Debug\Decrypting Message.csprojResolveAssemblyReference.cache
+C:\Users\Petko\documents\visual studio 2015\Projects\Data Types and Variables More Exercises\Decrypting Message\obj\Debug\Decrypting Message.exe
+C:\Users\Petko\documents\visual studio 2015\Projects\Data Types and Variables More Exercises\Decrypting Message\obj\Debug\Decrypting Message.pdb

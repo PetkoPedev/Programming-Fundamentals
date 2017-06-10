@@ -1,0 +1,6 @@
+c:\users\petko\documents\visual studio 2015\Projects\CSharp More Exercises\X Sign\bin\Debug\X Sign.exe.config
+c:\users\petko\documents\visual studio 2015\Projects\CSharp More Exercises\X Sign\bin\Debug\X Sign.exe
+c:\users\petko\documents\visual studio 2015\Projects\CSharp More Exercises\X Sign\bin\Debug\X Sign.pdb
+c:\users\petko\documents\visual studio 2015\Projects\CSharp More Exercises\X Sign\obj\Debug\X Sign.csprojResolveAssemblyReference.cache
+c:\users\petko\documents\visual studio 2015\Projects\CSharp More Exercises\X Sign\obj\Debug\X Sign.exe
+c:\users\petko\documents\visual studio 2015\Projects\CSharp More Exercises\X Sign\obj\Debug\X Sign.pdb

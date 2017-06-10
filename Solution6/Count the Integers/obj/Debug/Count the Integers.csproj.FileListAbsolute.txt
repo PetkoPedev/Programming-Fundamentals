@@ -1,0 +1,6 @@
+c:\users\petko\documents\visual studio 2015\Projects\Solution6\Count the Integers\bin\Debug\Count the Integers.exe.config
+C:\Users\Petko\Documents\Visual Studio 2015\Projects\Solution6\Count the Integers\bin\Debug\Count the Integers.exe
+C:\Users\Petko\Documents\Visual Studio 2015\Projects\Solution6\Count the Integers\bin\Debug\Count the Integers.pdb
+C:\Users\Petko\Documents\Visual Studio 2015\Projects\Solution6\Count the Integers\obj\Debug\Count the Integers.csprojResolveAssemblyReference.cache
+C:\Users\Petko\Documents\Visual Studio 2015\Projects\Solution6\Count the Integers\obj\Debug\Count the Integers.exe
+C:\Users\Petko\Documents\Visual Studio 2015\Projects\Solution6\Count the Integers\obj\Debug\Count the Integers.pdb

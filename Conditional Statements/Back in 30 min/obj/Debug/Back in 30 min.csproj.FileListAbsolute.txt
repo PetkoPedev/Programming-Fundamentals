@@ -1,0 +1,6 @@
+c:\users\petko\documents\visual studio 2015\Projects\Conditional Statements\Back in 30 min\bin\Debug\Back in 30 min.exe.config
+c:\users\petko\documents\visual studio 2015\Projects\Conditional Statements\Back in 30 min\bin\Debug\Back in 30 min.exe
+c:\users\petko\documents\visual studio 2015\Projects\Conditional Statements\Back in 30 min\bin\Debug\Back in 30 min.pdb
+c:\users\petko\documents\visual studio 2015\Projects\Conditional Statements\Back in 30 min\obj\Debug\Back in 30 min.csprojResolveAssemblyReference.cache
+c:\users\petko\documents\visual studio 2015\Projects\Conditional Statements\Back in 30 min\obj\Debug\Back in 30 min.exe
+c:\users\petko\documents\visual studio 2015\Projects\Conditional Statements\Back in 30 min\obj\Debug\Back in 30 min.pdb

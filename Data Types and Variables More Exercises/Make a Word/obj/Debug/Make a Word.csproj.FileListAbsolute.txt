@@ -1,0 +1,6 @@
+C:\Users\Petko\documents\visual studio 2015\Projects\Data Types and Variables More Exercises\Make a Word\bin\Debug\Make a Word.exe.config
+C:\Users\Petko\documents\visual studio 2015\Projects\Data Types and Variables More Exercises\Make a Word\bin\Debug\Make a Word.exe
+C:\Users\Petko\documents\visual studio 2015\Projects\Data Types and Variables More Exercises\Make a Word\bin\Debug\Make a Word.pdb
+C:\Users\Petko\documents\visual studio 2015\Projects\Data Types and Variables More Exercises\Make a Word\obj\Debug\Make a Word.csprojResolveAssemblyReference.cache
+C:\Users\Petko\documents\visual studio 2015\Projects\Data Types and Variables More Exercises\Make a Word\obj\Debug\Make a Word.exe
+C:\Users\Petko\documents\visual studio 2015\Projects\Data Types and Variables More Exercises\Make a Word\obj\Debug\Make a Word.pdb

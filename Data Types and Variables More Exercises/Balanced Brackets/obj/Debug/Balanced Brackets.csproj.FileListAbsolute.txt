@@ -1,0 +1,5 @@
+C:\Users\Petko\documents\visual studio 2015\Projects\Data Types and Variables More Exercises\Balanced Brackets\bin\Debug\Balanced Brackets.exe.config
+C:\Users\Petko\documents\visual studio 2015\Projects\Data Types and Variables More Exercises\Balanced Brackets\bin\Debug\Balanced Brackets.exe
+C:\Users\Petko\documents\visual studio 2015\Projects\Data Types and Variables More Exercises\Balanced Brackets\bin\Debug\Balanced Brackets.pdb
+C:\Users\Petko\documents\visual studio 2015\Projects\Data Types and Variables More Exercises\Balanced Brackets\obj\Debug\Balanced Brackets.exe
+C:\Users\Petko\documents\visual studio 2015\Projects\Data Types and Variables More Exercises\Balanced Brackets\obj\Debug\Balanced Brackets.pdb

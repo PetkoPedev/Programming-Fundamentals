@@ -1,0 +1,5 @@
+c:\users\petko\documents\visual studio 2015\Projects\Data Types and Variables More Exercises\Catch the Thief\bin\Debug\Catch the Thief.exe.config
+c:\users\petko\documents\visual studio 2015\Projects\Data Types and Variables More Exercises\Catch the Thief\bin\Debug\Catch the Thief.exe
+c:\users\petko\documents\visual studio 2015\Projects\Data Types and Variables More Exercises\Catch the Thief\bin\Debug\Catch the Thief.pdb
+c:\users\petko\documents\visual studio 2015\Projects\Data Types and Variables More Exercises\Catch the Thief\obj\Debug\Catch the Thief.exe
+c:\users\petko\documents\visual studio 2015\Projects\Data Types and Variables More Exercises\Catch the Thief\obj\Debug\Catch the Thief.pdb

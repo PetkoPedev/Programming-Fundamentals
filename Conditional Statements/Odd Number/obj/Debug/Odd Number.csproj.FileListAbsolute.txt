@@ -1,0 +1,6 @@
+c:\users\petko\documents\visual studio 2015\Projects\Conditional Statements\Odd Number\bin\Debug\Odd Number.exe.config
+c:\users\petko\documents\visual studio 2015\Projects\Conditional Statements\Odd Number\bin\Debug\Odd Number.exe
+c:\users\petko\documents\visual studio 2015\Projects\Conditional Statements\Odd Number\bin\Debug\Odd Number.pdb
+c:\users\petko\documents\visual studio 2015\Projects\Conditional Statements\Odd Number\obj\Debug\Odd Number.csprojResolveAssemblyReference.cache
+c:\users\petko\documents\visual studio 2015\Projects\Conditional Statements\Odd Number\obj\Debug\Odd Number.exe
+c:\users\petko\documents\visual studio 2015\Projects\Conditional Statements\Odd Number\obj\Debug\Odd Number.pdb

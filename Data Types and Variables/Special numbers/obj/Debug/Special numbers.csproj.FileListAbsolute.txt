@@ -1,0 +1,5 @@
+c:\users\petko\documents\visual studio 2015\Projects\Data Types and Variables\Special numbers\bin\Debug\Special numbers.exe.config
+c:\users\petko\documents\visual studio 2015\Projects\Data Types and Variables\Special numbers\bin\Debug\Special numbers.exe
+c:\users\petko\documents\visual studio 2015\Projects\Data Types and Variables\Special numbers\bin\Debug\Special numbers.pdb
+c:\users\petko\documents\visual studio 2015\Projects\Data Types and Variables\Special numbers\obj\Debug\Special numbers.exe
+c:\users\petko\documents\visual studio 2015\Projects\Data Types and Variables\Special numbers\obj\Debug\Special numbers.pdb

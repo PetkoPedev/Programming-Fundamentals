@@ -1,0 +1,6 @@
+c:\users\petko\documents\visual studio 2015\Projects\Data Types and Variables More Exercises\Type Boundaries\bin\Debug\Type Boundaries.exe.config
+c:\users\petko\documents\visual studio 2015\Projects\Data Types and Variables More Exercises\Type Boundaries\bin\Debug\Type Boundaries.exe
+c:\users\petko\documents\visual studio 2015\Projects\Data Types and Variables More Exercises\Type Boundaries\bin\Debug\Type Boundaries.pdb
+c:\users\petko\documents\visual studio 2015\Projects\Data Types and Variables More Exercises\Type Boundaries\obj\Debug\Type Boundaries.csprojResolveAssemblyReference.cache
+c:\users\petko\documents\visual studio 2015\Projects\Data Types and Variables More Exercises\Type Boundaries\obj\Debug\Type Boundaries.exe
+c:\users\petko\documents\visual studio 2015\Projects\Data Types and Variables More Exercises\Type Boundaries\obj\Debug\Type Boundaries.pdb

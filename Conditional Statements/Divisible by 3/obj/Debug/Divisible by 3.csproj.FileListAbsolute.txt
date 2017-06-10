@@ -1,0 +1,5 @@
+c:\users\petko\documents\visual studio 2015\Projects\Conditional Statements\Divisible by 3\bin\Debug\Divisible by 3.exe.config
+c:\users\petko\documents\visual studio 2015\Projects\Conditional Statements\Divisible by 3\bin\Debug\Divisible by 3.exe
+c:\users\petko\documents\visual studio 2015\Projects\Conditional Statements\Divisible by 3\bin\Debug\Divisible by 3.pdb
+c:\users\petko\documents\visual studio 2015\Projects\Conditional Statements\Divisible by 3\obj\Debug\Divisible by 3.exe
+c:\users\petko\documents\visual studio 2015\Projects\Conditional Statements\Divisible by 3\obj\Debug\Divisible by 3.pdb

@@ -1,0 +1,6 @@
+c:\users\petko\documents\visual studio 2015\Projects\Solution6\Hotel Room\bin\Debug\Hotel Room.exe.config
+c:\users\petko\documents\visual studio 2015\Projects\Solution6\Hotel Room\bin\Debug\Hotel Room.exe
+c:\users\petko\documents\visual studio 2015\Projects\Solution6\Hotel Room\bin\Debug\Hotel Room.pdb
+c:\users\petko\documents\visual studio 2015\Projects\Solution6\Hotel Room\obj\Debug\Hotel Room.csprojResolveAssemblyReference.cache
+c:\users\petko\documents\visual studio 2015\Projects\Solution6\Hotel Room\obj\Debug\Hotel Room.exe
+c:\users\petko\documents\visual studio 2015\Projects\Solution6\Hotel Room\obj\Debug\Hotel Room.pdb

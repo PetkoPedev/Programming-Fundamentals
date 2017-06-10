@@ -1,0 +1,5 @@
+c:\users\petko\documents\visual studio 2015\Projects\Solution6\Cake ingredients\bin\Debug\Cake ingredients.exe.config
+c:\users\petko\documents\visual studio 2015\Projects\Solution6\Cake ingredients\bin\Debug\Cake ingredients.exe
+c:\users\petko\documents\visual studio 2015\Projects\Solution6\Cake ingredients\bin\Debug\Cake ingredients.pdb
+c:\users\petko\documents\visual studio 2015\Projects\Solution6\Cake ingredients\obj\Debug\Cake ingredients.exe
+c:\users\petko\documents\visual studio 2015\Projects\Solution6\Cake ingredients\obj\Debug\Cake ingredients.pdb

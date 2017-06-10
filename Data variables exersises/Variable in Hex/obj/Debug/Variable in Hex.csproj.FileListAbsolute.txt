@@ -1,0 +1,6 @@
+c:\users\petko\documents\visual studio 2015\Projects\Data variables exersises\Variable in Hex\bin\Debug\Variable in Hex.exe.config
+c:\users\petko\documents\visual studio 2015\Projects\Data variables exersises\Variable in Hex\bin\Debug\Variable in Hex.exe
+c:\users\petko\documents\visual studio 2015\Projects\Data variables exersises\Variable in Hex\bin\Debug\Variable in Hex.pdb
+c:\users\petko\documents\visual studio 2015\Projects\Data variables exersises\Variable in Hex\obj\Debug\Variable in Hex.exe
+c:\users\petko\documents\visual studio 2015\Projects\Data variables exersises\Variable in Hex\obj\Debug\Variable in Hex.pdb
+c:\users\petko\documents\visual studio 2015\Projects\Data variables exersises\Variable in Hex\obj\Debug\Variable in Hex.csprojResolveAssemblyReference.cache

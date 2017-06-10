@@ -1,0 +1,5 @@
+c:\users\petko\documents\visual studio 2015\Projects\Data variables exersises\Practice characters and strings\bin\Debug\Practice characters and strings.exe.config
+c:\users\petko\documents\visual studio 2015\Projects\Data variables exersises\Practice characters and strings\bin\Debug\Practice characters and strings.exe
+c:\users\petko\documents\visual studio 2015\Projects\Data variables exersises\Practice characters and strings\bin\Debug\Practice characters and strings.pdb
+c:\users\petko\documents\visual studio 2015\Projects\Data variables exersises\Practice characters and strings\obj\Debug\Practice characters and strings.exe
+c:\users\petko\documents\visual studio 2015\Projects\Data variables exersises\Practice characters and strings\obj\Debug\Practice characters and strings.pdb

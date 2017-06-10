@@ -1,0 +1,6 @@
+c:\users\petko\documents\visual studio 2015\Projects\CSharp More Exercises\DNA Sequence\bin\Debug\DNA Sequence.exe.config
+c:\users\petko\documents\visual studio 2015\Projects\CSharp More Exercises\DNA Sequence\bin\Debug\DNA Sequence.exe
+c:\users\petko\documents\visual studio 2015\Projects\CSharp More Exercises\DNA Sequence\bin\Debug\DNA Sequence.pdb
+c:\users\petko\documents\visual studio 2015\Projects\CSharp More Exercises\DNA Sequence\obj\Debug\DNA Sequence.csprojResolveAssemblyReference.cache
+c:\users\petko\documents\visual studio 2015\Projects\CSharp More Exercises\DNA Sequence\obj\Debug\DNA Sequence.exe
+c:\users\petko\documents\visual studio 2015\Projects\CSharp More Exercises\DNA Sequence\obj\Debug\DNA Sequence.pdb

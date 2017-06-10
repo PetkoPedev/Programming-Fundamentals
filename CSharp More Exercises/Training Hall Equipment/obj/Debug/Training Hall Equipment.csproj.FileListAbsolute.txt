@@ -1,0 +1,6 @@
+c:\users\petko\documents\visual studio 2015\Projects\CSharp More Exercises\Training Hall Equipment\bin\Debug\Training Hall Equipment.exe.config
+c:\users\petko\documents\visual studio 2015\Projects\CSharp More Exercises\Training Hall Equipment\bin\Debug\Training Hall Equipment.exe
+c:\users\petko\documents\visual studio 2015\Projects\CSharp More Exercises\Training Hall Equipment\bin\Debug\Training Hall Equipment.pdb
+c:\users\petko\documents\visual studio 2015\Projects\CSharp More Exercises\Training Hall Equipment\obj\Debug\Training Hall Equipment.csprojResolveAssemblyReference.cache
+c:\users\petko\documents\visual studio 2015\Projects\CSharp More Exercises\Training Hall Equipment\obj\Debug\Training Hall Equipment.exe
+c:\users\petko\documents\visual studio 2015\Projects\CSharp More Exercises\Training Hall Equipment\obj\Debug\Training Hall Equipment.pdb

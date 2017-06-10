@@ -1,0 +1,5 @@
+c:\users\petko\documents\visual studio 2015\Projects\Data variables exersises\Print part of the ASCII Table\bin\Debug\Print part of the ASCII Table.exe.config
+c:\users\petko\documents\visual studio 2015\Projects\Data variables exersises\Print part of the ASCII Table\bin\Debug\Print part of the ASCII Table.exe
+c:\users\petko\documents\visual studio 2015\Projects\Data variables exersises\Print part of the ASCII Table\bin\Debug\Print part of the ASCII Table.pdb
+c:\users\petko\documents\visual studio 2015\Projects\Data variables exersises\Print part of the ASCII Table\obj\Debug\Print part of the ASCII Table.exe
+c:\users\petko\documents\visual studio 2015\Projects\Data variables exersises\Print part of the ASCII Table\obj\Debug\Print part of the ASCII Table.pdb

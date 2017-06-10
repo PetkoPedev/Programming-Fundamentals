@@ -1,0 +1,5 @@
+c:\users\petko\documents\visual studio 2015\Projects\CSharp More Exercises\MegaPixels\bin\Debug\MegaPixels.exe.config
+c:\users\petko\documents\visual studio 2015\Projects\CSharp More Exercises\MegaPixels\bin\Debug\MegaPixels.exe
+c:\users\petko\documents\visual studio 2015\Projects\CSharp More Exercises\MegaPixels\bin\Debug\MegaPixels.pdb
+c:\users\petko\documents\visual studio 2015\Projects\CSharp More Exercises\MegaPixels\obj\Debug\MegaPixels.exe
+c:\users\petko\documents\visual studio 2015\Projects\CSharp More Exercises\MegaPixels\obj\Debug\MegaPixels.pdb

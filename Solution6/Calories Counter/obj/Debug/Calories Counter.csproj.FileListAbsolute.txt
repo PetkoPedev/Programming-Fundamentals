@@ -1,0 +1,6 @@
+c:\users\petko\documents\visual studio 2015\Projects\Solution6\Calories Counter\bin\Debug\Calories Counter.exe.config
+c:\users\petko\documents\visual studio 2015\Projects\Solution6\Calories Counter\bin\Debug\Calories Counter.exe
+c:\users\petko\documents\visual studio 2015\Projects\Solution6\Calories Counter\bin\Debug\Calories Counter.pdb
+c:\users\petko\documents\visual studio 2015\Projects\Solution6\Calories Counter\obj\Debug\Calories Counter.csprojResolveAssemblyReference.cache
+c:\users\petko\documents\visual studio 2015\Projects\Solution6\Calories Counter\obj\Debug\Calories Counter.exe
+c:\users\petko\documents\visual studio 2015\Projects\Solution6\Calories Counter\obj\Debug\Calories Counter.pdb

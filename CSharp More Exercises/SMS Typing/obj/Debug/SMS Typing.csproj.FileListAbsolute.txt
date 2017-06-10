@@ -1,0 +1,5 @@
+c:\users\petko\documents\visual studio 2015\Projects\CSharp More Exercises\SMS Typing\bin\Debug\SMS Typing.exe.config
+c:\users\petko\documents\visual studio 2015\Projects\CSharp More Exercises\SMS Typing\bin\Debug\SMS Typing.exe
+c:\users\petko\documents\visual studio 2015\Projects\CSharp More Exercises\SMS Typing\bin\Debug\SMS Typing.pdb
+c:\users\petko\documents\visual studio 2015\Projects\CSharp More Exercises\SMS Typing\obj\Debug\SMS Typing.exe
+c:\users\petko\documents\visual studio 2015\Projects\CSharp More Exercises\SMS Typing\obj\Debug\SMS Typing.pdb

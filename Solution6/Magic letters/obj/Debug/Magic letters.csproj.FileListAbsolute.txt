@@ -1,0 +1,6 @@
+C:\Users\Petko\Documents\Visual Studio 2015\Projects\Solution6\Magic letters\bin\Debug\Magic letters.exe.config
+C:\Users\Petko\Documents\Visual Studio 2015\Projects\Solution6\Magic letters\bin\Debug\Magic letters.exe
+C:\Users\Petko\Documents\Visual Studio 2015\Projects\Solution6\Magic letters\bin\Debug\Magic letters.pdb
+C:\Users\Petko\Documents\Visual Studio 2015\Projects\Solution6\Magic letters\obj\Debug\Magic letters.csprojResolveAssemblyReference.cache
+C:\Users\Petko\Documents\Visual Studio 2015\Projects\Solution6\Magic letters\obj\Debug\Magic letters.exe
+C:\Users\Petko\Documents\Visual Studio 2015\Projects\Solution6\Magic letters\obj\Debug\Magic letters.pdb

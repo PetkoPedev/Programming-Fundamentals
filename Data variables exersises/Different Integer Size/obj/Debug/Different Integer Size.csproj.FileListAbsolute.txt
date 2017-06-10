@@ -1,0 +1,6 @@
+c:\users\petko\documents\visual studio 2015\Projects\Data variables exersises\Different Integer Size\bin\Debug\Different Integer Size.exe.config
+c:\users\petko\documents\visual studio 2015\Projects\Data variables exersises\Different Integer Size\bin\Debug\Different Integer Size.exe
+c:\users\petko\documents\visual studio 2015\Projects\Data variables exersises\Different Integer Size\bin\Debug\Different Integer Size.pdb
+c:\users\petko\documents\visual studio 2015\Projects\Data variables exersises\Different Integer Size\obj\Debug\Different Integer Size.csprojResolveAssemblyReference.cache
+c:\users\petko\documents\visual studio 2015\Projects\Data variables exersises\Different Integer Size\obj\Debug\Different Integer Size.exe
+c:\users\petko\documents\visual studio 2015\Projects\Data variables exersises\Different Integer Size\obj\Debug\Different Integer Size.pdb

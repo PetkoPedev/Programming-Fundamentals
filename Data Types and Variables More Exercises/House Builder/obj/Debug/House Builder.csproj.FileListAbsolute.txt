@@ -1,0 +1,5 @@
+c:\users\petko\documents\visual studio 2015\Projects\Data Types and Variables More Exercises\House Builder\bin\Debug\House Builder.exe.config
+c:\users\petko\documents\visual studio 2015\Projects\Data Types and Variables More Exercises\House Builder\bin\Debug\House Builder.exe
+c:\users\petko\documents\visual studio 2015\Projects\Data Types and Variables More Exercises\House Builder\bin\Debug\House Builder.pdb
+c:\users\petko\documents\visual studio 2015\Projects\Data Types and Variables More Exercises\House Builder\obj\Debug\House Builder.exe
+c:\users\petko\documents\visual studio 2015\Projects\Data Types and Variables More Exercises\House Builder\obj\Debug\House Builder.pdb

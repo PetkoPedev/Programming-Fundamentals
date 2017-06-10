@@ -1,0 +1,5 @@
+c:\users\petko\documents\visual studio 2015\Projects\Conditional Statements\Month Printer\bin\Debug\Month Printer.exe.config
+c:\users\petko\documents\visual studio 2015\Projects\Conditional Statements\Month Printer\bin\Debug\Month Printer.exe
+c:\users\petko\documents\visual studio 2015\Projects\Conditional Statements\Month Printer\bin\Debug\Month Printer.pdb
+c:\users\petko\documents\visual studio 2015\Projects\Conditional Statements\Month Printer\obj\Debug\Month Printer.exe
+c:\users\petko\documents\visual studio 2015\Projects\Conditional Statements\Month Printer\obj\Debug\Month Printer.pdb

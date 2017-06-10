@@ -1,0 +1,6 @@
+c:\users\petko\documents\visual studio 2015\Projects\Data Types and Variables More Exercises\Tourist Information\bin\Debug\Tourist Information.exe.config
+c:\users\petko\documents\visual studio 2015\Projects\Data Types and Variables More Exercises\Tourist Information\bin\Debug\Tourist Information.exe
+c:\users\petko\documents\visual studio 2015\Projects\Data Types and Variables More Exercises\Tourist Information\bin\Debug\Tourist Information.pdb
+c:\users\petko\documents\visual studio 2015\Projects\Data Types and Variables More Exercises\Tourist Information\obj\Debug\Tourist Information.csprojResolveAssemblyReference.cache
+c:\users\petko\documents\visual studio 2015\Projects\Data Types and Variables More Exercises\Tourist Information\obj\Debug\Tourist Information.exe
+c:\users\petko\documents\visual studio 2015\Projects\Data Types and Variables More Exercises\Tourist Information\obj\Debug\Tourist Information.pdb

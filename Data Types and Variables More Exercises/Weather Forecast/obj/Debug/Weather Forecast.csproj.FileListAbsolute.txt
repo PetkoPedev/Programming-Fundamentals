@@ -1,0 +1,6 @@
+c:\users\petko\documents\visual studio 2015\Projects\Data Types and Variables More Exercises\Weather Forecast\bin\Debug\Weather Forecast.exe.config
+c:\users\petko\documents\visual studio 2015\Projects\Data Types and Variables More Exercises\Weather Forecast\bin\Debug\Weather Forecast.exe
+c:\users\petko\documents\visual studio 2015\Projects\Data Types and Variables More Exercises\Weather Forecast\bin\Debug\Weather Forecast.pdb
+c:\users\petko\documents\visual studio 2015\Projects\Data Types and Variables More Exercises\Weather Forecast\obj\Debug\Weather Forecast.csprojResolveAssemblyReference.cache
+c:\users\petko\documents\visual studio 2015\Projects\Data Types and Variables More Exercises\Weather Forecast\obj\Debug\Weather Forecast.exe
+c:\users\petko\documents\visual studio 2015\Projects\Data Types and Variables More Exercises\Weather Forecast\obj\Debug\Weather Forecast.pdb

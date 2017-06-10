@@ -1,0 +1,6 @@
+c:\users\petko\documents\visual studio 2015\Projects\Data Types and Variables\Centuries to minutes\bin\Debug\Centuries to minutes.exe.config
+c:\users\petko\documents\visual studio 2015\Projects\Data Types and Variables\Centuries to minutes\bin\Debug\Centuries to minutes.exe
+c:\users\petko\documents\visual studio 2015\Projects\Data Types and Variables\Centuries to minutes\bin\Debug\Centuries to minutes.pdb
+c:\users\petko\documents\visual studio 2015\Projects\Data Types and Variables\Centuries to minutes\obj\Debug\Centuries to minutes.csprojResolveAssemblyReference.cache
+c:\users\petko\documents\visual studio 2015\Projects\Data Types and Variables\Centuries to minutes\obj\Debug\Centuries to minutes.exe
+c:\users\petko\documents\visual studio 2015\Projects\Data Types and Variables\Centuries to minutes\obj\Debug\Centuries to minutes.pdb

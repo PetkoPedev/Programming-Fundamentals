@@ -1,0 +1,6 @@
+C:\Users\Petko\Documents\Visual Studio 2015\Projects\Solution6\Game of numbers\bin\Debug\Game of numbers.exe.config
+C:\Users\Petko\Documents\Visual Studio 2015\Projects\Solution6\Game of numbers\bin\Debug\Game of numbers.exe
+C:\Users\Petko\Documents\Visual Studio 2015\Projects\Solution6\Game of numbers\bin\Debug\Game of numbers.pdb
+C:\Users\Petko\Documents\Visual Studio 2015\Projects\Solution6\Game of numbers\obj\Debug\Game of numbers.csprojResolveAssemblyReference.cache
+C:\Users\Petko\Documents\Visual Studio 2015\Projects\Solution6\Game of numbers\obj\Debug\Game of numbers.exe
+C:\Users\Petko\Documents\Visual Studio 2015\Projects\Solution6\Game of numbers\obj\Debug\Game of numbers.pdb

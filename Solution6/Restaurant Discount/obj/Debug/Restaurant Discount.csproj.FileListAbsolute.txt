@@ -1,0 +1,6 @@
+c:\users\petko\documents\visual studio 2015\Projects\Solution6\Restaurant Discount\bin\Debug\Restaurant Discount.exe.config
+c:\users\petko\documents\visual studio 2015\Projects\Solution6\Restaurant Discount\bin\Debug\Restaurant Discount.exe
+c:\users\petko\documents\visual studio 2015\Projects\Solution6\Restaurant Discount\bin\Debug\Restaurant Discount.pdb
+c:\users\petko\documents\visual studio 2015\Projects\Solution6\Restaurant Discount\obj\Debug\Restaurant Discount.csprojResolveAssemblyReference.cache
+c:\users\petko\documents\visual studio 2015\Projects\Solution6\Restaurant Discount\obj\Debug\Restaurant Discount.exe
+c:\users\petko\documents\visual studio 2015\Projects\Solution6\Restaurant Discount\obj\Debug\Restaurant Discount.pdb

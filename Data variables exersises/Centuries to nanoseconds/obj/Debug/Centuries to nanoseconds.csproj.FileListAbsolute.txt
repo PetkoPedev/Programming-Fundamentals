@@ -1,0 +1,6 @@
+c:\users\petko\documents\visual studio 2015\Projects\Data variables exersises\Centuries to nanoseconds\bin\Debug\Centuries to nanoseconds.exe.config
+c:\users\petko\documents\visual studio 2015\Projects\Data variables exersises\Centuries to nanoseconds\obj\Debug\Centuries to nanoseconds.csprojResolveAssemblyReference.cache
+c:\users\petko\documents\visual studio 2015\Projects\Data variables exersises\Centuries to nanoseconds\bin\Debug\Centuries to nanoseconds.exe
+c:\users\petko\documents\visual studio 2015\Projects\Data variables exersises\Centuries to nanoseconds\bin\Debug\Centuries to nanoseconds.pdb
+c:\users\petko\documents\visual studio 2015\Projects\Data variables exersises\Centuries to nanoseconds\obj\Debug\Centuries to nanoseconds.exe
+c:\users\petko\documents\visual studio 2015\Projects\Data variables exersises\Centuries to nanoseconds\obj\Debug\Centuries to nanoseconds.pdb

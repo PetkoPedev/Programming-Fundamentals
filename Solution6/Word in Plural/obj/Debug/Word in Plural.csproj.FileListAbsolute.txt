@@ -1,0 +1,5 @@
+c:\users\petko\documents\visual studio 2015\Projects\Solution6\Word in Plural\bin\Debug\Word in Plural.exe.config
+c:\users\petko\documents\visual studio 2015\Projects\Solution6\Word in Plural\bin\Debug\Word in Plural.exe
+c:\users\petko\documents\visual studio 2015\Projects\Solution6\Word in Plural\bin\Debug\Word in Plural.pdb
+c:\users\petko\documents\visual studio 2015\Projects\Solution6\Word in Plural\obj\Debug\Word in Plural.exe
+c:\users\petko\documents\visual studio 2015\Projects\Solution6\Word in Plural\obj\Debug\Word in Plural.pdb

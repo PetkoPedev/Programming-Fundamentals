@@ -1,0 +1,6 @@
+c:\users\petko\documents\visual studio 2015\Projects\Conditional Statements\Passed\bin\Debug\Passed.exe.config
+c:\users\petko\documents\visual studio 2015\Projects\Conditional Statements\Passed\bin\Debug\Passed.exe
+c:\users\petko\documents\visual studio 2015\Projects\Conditional Statements\Passed\bin\Debug\Passed.pdb
+c:\users\petko\documents\visual studio 2015\Projects\Conditional Statements\Passed\obj\Debug\Passed.csprojResolveAssemblyReference.cache
+c:\users\petko\documents\visual studio 2015\Projects\Conditional Statements\Passed\obj\Debug\Passed.exe
+c:\users\petko\documents\visual studio 2015\Projects\Conditional Statements\Passed\obj\Debug\Passed.pdb

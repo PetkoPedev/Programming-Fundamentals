@@ -1,0 +1,6 @@
+c:\users\petko\documents\visual studio 2015\Projects\More Complex Conditional Statements\Point-on-Rectangle-Border\bin\Debug\Point-on-Rectangle-Border.exe.config
+c:\users\petko\documents\visual studio 2015\Projects\More Complex Conditional Statements\Point-on-Rectangle-Border\bin\Debug\Point-on-Rectangle-Border.exe
+c:\users\petko\documents\visual studio 2015\Projects\More Complex Conditional Statements\Point-on-Rectangle-Border\bin\Debug\Point-on-Rectangle-Border.pdb
+c:\users\petko\documents\visual studio 2015\Projects\More Complex Conditional Statements\Point-on-Rectangle-Border\obj\Debug\Point-on-Rectangle-Border.csprojResolveAssemblyReference.cache
+c:\users\petko\documents\visual studio 2015\Projects\More Complex Conditional Statements\Point-on-Rectangle-Border\obj\Debug\Point-on-Rectangle-Border.exe
+c:\users\petko\documents\visual studio 2015\Projects\More Complex Conditional Statements\Point-on-Rectangle-Border\obj\Debug\Point-on-Rectangle-Border.pdb

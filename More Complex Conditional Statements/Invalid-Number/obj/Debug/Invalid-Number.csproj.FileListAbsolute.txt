@@ -1,0 +1,6 @@
+c:\users\petko\documents\visual studio 2015\Projects\More Complex Conditional Statements\Invalid-Number\bin\Debug\Invalid-Number.exe.config
+c:\users\petko\documents\visual studio 2015\Projects\More Complex Conditional Statements\Invalid-Number\bin\Debug\Invalid-Number.exe
+c:\users\petko\documents\visual studio 2015\Projects\More Complex Conditional Statements\Invalid-Number\bin\Debug\Invalid-Number.pdb
+c:\users\petko\documents\visual studio 2015\Projects\More Complex Conditional Statements\Invalid-Number\obj\Debug\Invalid-Number.csprojResolveAssemblyReference.cache
+c:\users\petko\documents\visual studio 2015\Projects\More Complex Conditional Statements\Invalid-Number\obj\Debug\Invalid-Number.exe
+c:\users\petko\documents\visual studio 2015\Projects\More Complex Conditional Statements\Invalid-Number\obj\Debug\Invalid-Number.pdb

@@ -1,0 +1,6 @@
+c:\users\petko\documents\visual studio 2015\Projects\Data variables exersises\Employee Data\bin\Debug\Employee Data.exe.config
+c:\users\petko\documents\visual studio 2015\Projects\Data variables exersises\Employee Data\bin\Debug\Employee Data.exe
+c:\users\petko\documents\visual studio 2015\Projects\Data variables exersises\Employee Data\bin\Debug\Employee Data.pdb
+c:\users\petko\documents\visual studio 2015\Projects\Data variables exersises\Employee Data\obj\Debug\Employee Data.csprojResolveAssemblyReference.cache
+c:\users\petko\documents\visual studio 2015\Projects\Data variables exersises\Employee Data\obj\Debug\Employee Data.exe
+c:\users\petko\documents\visual studio 2015\Projects\Data variables exersises\Employee Data\obj\Debug\Employee Data.pdb

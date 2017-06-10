@@ -1,0 +1,5 @@
+C:\Users\Petko\documents\visual studio 2015\Projects\Data Types and Variables More Exercises\Boat Simulator\bin\Debug\Boat Simulator.exe.config
+C:\Users\Petko\documents\visual studio 2015\Projects\Data Types and Variables More Exercises\Boat Simulator\bin\Debug\Boat Simulator.exe
+C:\Users\Petko\documents\visual studio 2015\Projects\Data Types and Variables More Exercises\Boat Simulator\bin\Debug\Boat Simulator.pdb
+C:\Users\Petko\documents\visual studio 2015\Projects\Data Types and Variables More Exercises\Boat Simulator\obj\Debug\Boat Simulator.exe
+C:\Users\Petko\documents\visual studio 2015\Projects\Data Types and Variables More Exercises\Boat Simulator\obj\Debug\Boat Simulator.pdb

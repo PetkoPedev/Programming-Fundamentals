@@ -1,0 +1,6 @@
+c:\users\petko\documents\visual studio 2015\Projects\Data Types and Variables\Volume of Piramid\bin\Debug\Volume of Piramid.exe.config
+c:\users\petko\documents\visual studio 2015\Projects\Data Types and Variables\Volume of Piramid\bin\Debug\Volume of Piramid.exe
+c:\users\petko\documents\visual studio 2015\Projects\Data Types and Variables\Volume of Piramid\bin\Debug\Volume of Piramid.pdb
+c:\users\petko\documents\visual studio 2015\Projects\Data Types and Variables\Volume of Piramid\obj\Debug\Volume of Piramid.csprojResolveAssemblyReference.cache
+c:\users\petko\documents\visual studio 2015\Projects\Data Types and Variables\Volume of Piramid\obj\Debug\Volume of Piramid.exe
+c:\users\petko\documents\visual studio 2015\Projects\Data Types and Variables\Volume of Piramid\obj\Debug\Volume of Piramid.pdb

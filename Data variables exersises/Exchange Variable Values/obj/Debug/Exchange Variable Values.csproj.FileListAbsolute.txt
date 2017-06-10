@@ -1,0 +1,5 @@
+c:\users\petko\documents\visual studio 2015\Projects\Data variables exersises\Exchange Variable Values\bin\Debug\Exchange Variable Values.exe.config
+c:\users\petko\documents\visual studio 2015\Projects\Data variables exersises\Exchange Variable Values\bin\Debug\Exchange Variable Values.exe
+c:\users\petko\documents\visual studio 2015\Projects\Data variables exersises\Exchange Variable Values\bin\Debug\Exchange Variable Values.pdb
+c:\users\petko\documents\visual studio 2015\Projects\Data variables exersises\Exchange Variable Values\obj\Debug\Exchange Variable Values.exe
+c:\users\petko\documents\visual studio 2015\Projects\Data variables exersises\Exchange Variable Values\obj\Debug\Exchange Variable Values.pdb

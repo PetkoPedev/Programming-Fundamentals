@@ -1,0 +1,6 @@
+C:\Users\Petko\Documents\Visual Studio 2015\Projects\More Complex Conditional Statements\Days-of-Week\bin\Debug\Days-of-Week.exe.config
+C:\Users\Petko\Documents\Visual Studio 2015\Projects\More Complex Conditional Statements\Days-of-Week\bin\Debug\Days-of-Week.exe
+C:\Users\Petko\Documents\Visual Studio 2015\Projects\More Complex Conditional Statements\Days-of-Week\bin\Debug\Days-of-Week.pdb
+C:\Users\Petko\Documents\Visual Studio 2015\Projects\More Complex Conditional Statements\Days-of-Week\obj\Debug\Days-of-Week.csprojResolveAssemblyReference.cache
+C:\Users\Petko\Documents\Visual Studio 2015\Projects\More Complex Conditional Statements\Days-of-Week\obj\Debug\Days-of-Week.exe
+C:\Users\Petko\Documents\Visual Studio 2015\Projects\More Complex Conditional Statements\Days-of-Week\obj\Debug\Days-of-Week.pdb

@@ -1,0 +1,6 @@
+c:\users\petko\documents\visual studio 2015\Projects\Solution6\Choose a drink\bin\Debug\Choose a drink.exe.config
+c:\users\petko\documents\visual studio 2015\Projects\Solution6\Choose a drink\bin\Debug\Choose a drink.exe
+c:\users\petko\documents\visual studio 2015\Projects\Solution6\Choose a drink\bin\Debug\Choose a drink.pdb
+c:\users\petko\documents\visual studio 2015\Projects\Solution6\Choose a drink\obj\Debug\Choose a drink.csprojResolveAssemblyReference.cache
+c:\users\petko\documents\visual studio 2015\Projects\Solution6\Choose a drink\obj\Debug\Choose a drink.exe
+c:\users\petko\documents\visual studio 2015\Projects\Solution6\Choose a drink\obj\Debug\Choose a drink.pdb

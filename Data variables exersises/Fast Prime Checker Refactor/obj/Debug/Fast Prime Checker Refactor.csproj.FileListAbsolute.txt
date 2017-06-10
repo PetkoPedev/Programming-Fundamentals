@@ -1,0 +1,5 @@
+c:\users\petko\documents\visual studio 2015\Projects\Data variables exersises\Fast Prime Checker Refactor\bin\Debug\Fast Prime Checker Refactor.exe.config
+c:\users\petko\documents\visual studio 2015\Projects\Data variables exersises\Fast Prime Checker Refactor\bin\Debug\Fast Prime Checker Refactor.exe
+c:\users\petko\documents\visual studio 2015\Projects\Data variables exersises\Fast Prime Checker Refactor\bin\Debug\Fast Prime Checker Refactor.pdb
+c:\users\petko\documents\visual studio 2015\Projects\Data variables exersises\Fast Prime Checker Refactor\obj\Debug\Fast Prime Checker Refactor.exe
+c:\users\petko\documents\visual studio 2015\Projects\Data variables exersises\Fast Prime Checker Refactor\obj\Debug\Fast Prime Checker Refactor.pdb

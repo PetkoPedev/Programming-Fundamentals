@@ -1,0 +1,6 @@
+c:\users\petko\documents\visual studio 2015\Projects\CSharp More Exercises\BPM Counter\bin\Debug\BPM Counter.exe.config
+c:\users\petko\documents\visual studio 2015\Projects\CSharp More Exercises\BPM Counter\bin\Debug\BPM Counter.exe
+c:\users\petko\documents\visual studio 2015\Projects\CSharp More Exercises\BPM Counter\bin\Debug\BPM Counter.pdb
+c:\users\petko\documents\visual studio 2015\Projects\CSharp More Exercises\BPM Counter\obj\Debug\BPM Counter.csprojResolveAssemblyReference.cache
+c:\users\petko\documents\visual studio 2015\Projects\CSharp More Exercises\BPM Counter\obj\Debug\BPM Counter.exe
+c:\users\petko\documents\visual studio 2015\Projects\CSharp More Exercises\BPM Counter\obj\Debug\BPM Counter.pdb

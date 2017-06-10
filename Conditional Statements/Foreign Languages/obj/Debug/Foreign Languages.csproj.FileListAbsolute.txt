@@ -1,0 +1,5 @@
+c:\users\petko\documents\visual studio 2015\Projects\Conditional Statements\Foreign Languages\bin\Debug\Foreign Languages.exe.config
+c:\users\petko\documents\visual studio 2015\Projects\Conditional Statements\Foreign Languages\bin\Debug\Foreign Languages.exe
+c:\users\petko\documents\visual studio 2015\Projects\Conditional Statements\Foreign Languages\bin\Debug\Foreign Languages.pdb
+c:\users\petko\documents\visual studio 2015\Projects\Conditional Statements\Foreign Languages\obj\Debug\Foreign Languages.exe
+c:\users\petko\documents\visual studio 2015\Projects\Conditional Statements\Foreign Languages\obj\Debug\Foreign Languages.pdb

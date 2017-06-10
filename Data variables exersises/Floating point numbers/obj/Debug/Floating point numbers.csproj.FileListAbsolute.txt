@@ -1,0 +1,6 @@
+c:\users\petko\documents\visual studio 2015\Projects\Data variables exersises\Floating point numbers\bin\Debug\Floating point numbers.exe.config
+c:\users\petko\documents\visual studio 2015\Projects\Data variables exersises\Floating point numbers\bin\Debug\Floating point numbers.exe
+c:\users\petko\documents\visual studio 2015\Projects\Data variables exersises\Floating point numbers\bin\Debug\Floating point numbers.pdb
+c:\users\petko\documents\visual studio 2015\Projects\Data variables exersises\Floating point numbers\obj\Debug\Floating point numbers.csprojResolveAssemblyReference.cache
+c:\users\petko\documents\visual studio 2015\Projects\Data variables exersises\Floating point numbers\obj\Debug\Floating point numbers.exe
+c:\users\petko\documents\visual studio 2015\Projects\Data variables exersises\Floating point numbers\obj\Debug\Floating point numbers.pdb

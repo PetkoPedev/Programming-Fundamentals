@@ -1,0 +1,6 @@
+c:\users\petko\documents\visual studio 2015\Projects\Solution6\Triangle of numbers\bin\Debug\Triangle of numbers.exe.config
+c:\users\petko\documents\visual studio 2015\Projects\Solution6\Triangle of numbers\bin\Debug\Triangle of numbers.exe
+c:\users\petko\documents\visual studio 2015\Projects\Solution6\Triangle of numbers\bin\Debug\Triangle of numbers.pdb
+c:\users\petko\documents\visual studio 2015\Projects\Solution6\Triangle of numbers\obj\Debug\Triangle of numbers.exe
+c:\users\petko\documents\visual studio 2015\Projects\Solution6\Triangle of numbers\obj\Debug\Triangle of numbers.pdb
+c:\users\petko\documents\visual studio 2015\Projects\Solution6\Triangle of numbers\obj\Debug\Triangle of numbers.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+c:\users\petko\documents\visual studio 2015\Projects\More Complex Conditional Statements\Fruit-or-Vegetable\bin\Debug\Fruit-or-Vegetable.exe.config
+c:\users\petko\documents\visual studio 2015\Projects\More Complex Conditional Statements\Fruit-or-Vegetable\bin\Debug\Fruit-or-Vegetable.exe
+c:\users\petko\documents\visual studio 2015\Projects\More Complex Conditional Statements\Fruit-or-Vegetable\bin\Debug\Fruit-or-Vegetable.pdb
+c:\users\petko\documents\visual studio 2015\Projects\More Complex Conditional Statements\Fruit-or-Vegetable\obj\Debug\Fruit-or-Vegetable.exe
+c:\users\petko\documents\visual studio 2015\Projects\More Complex Conditional Statements\Fruit-or-Vegetable\obj\Debug\Fruit-or-Vegetable.pdb
