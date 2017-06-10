@@ -1,0 +1,6 @@
+c:\users\petko\documents\visual studio 2015\Projects\Methods Debugging and Troubleshooting\Sign of Integer number\bin\Debug\Sign of Integer number.exe.config
+c:\users\petko\documents\visual studio 2015\Projects\Methods Debugging and Troubleshooting\Sign of Integer number\bin\Debug\Sign of Integer number.exe
+c:\users\petko\documents\visual studio 2015\Projects\Methods Debugging and Troubleshooting\Sign of Integer number\bin\Debug\Sign of Integer number.pdb
+c:\users\petko\documents\visual studio 2015\Projects\Methods Debugging and Troubleshooting\Sign of Integer number\obj\Debug\Sign of Integer number.csprojResolveAssemblyReference.cache
+c:\users\petko\documents\visual studio 2015\Projects\Methods Debugging and Troubleshooting\Sign of Integer number\obj\Debug\Sign of Integer number.exe
+c:\users\petko\documents\visual studio 2015\Projects\Methods Debugging and Troubleshooting\Sign of Integer number\obj\Debug\Sign of Integer number.pdb

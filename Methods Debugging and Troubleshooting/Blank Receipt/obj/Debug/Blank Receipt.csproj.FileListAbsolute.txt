@@ -1,0 +1,6 @@
+c:\users\petko\documents\visual studio 2015\Projects\Methods Debugging and Troubleshooting\Blank Receipt\bin\Debug\Blank Receipt.exe.config
+c:\users\petko\documents\visual studio 2015\Projects\Methods Debugging and Troubleshooting\Blank Receipt\bin\Debug\Blank Receipt.exe
+c:\users\petko\documents\visual studio 2015\Projects\Methods Debugging and Troubleshooting\Blank Receipt\bin\Debug\Blank Receipt.pdb
+c:\users\petko\documents\visual studio 2015\Projects\Methods Debugging and Troubleshooting\Blank Receipt\obj\Debug\Blank Receipt.csprojResolveAssemblyReference.cache
+c:\users\petko\documents\visual studio 2015\Projects\Methods Debugging and Troubleshooting\Blank Receipt\obj\Debug\Blank Receipt.exe
+c:\users\petko\documents\visual studio 2015\Projects\Methods Debugging and Troubleshooting\Blank Receipt\obj\Debug\Blank Receipt.pdb

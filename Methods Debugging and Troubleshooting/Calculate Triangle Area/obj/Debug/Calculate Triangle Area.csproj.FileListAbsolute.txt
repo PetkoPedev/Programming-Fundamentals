@@ -1,0 +1,5 @@
+c:\users\petko\documents\visual studio 2015\Projects\Methods Debugging and Troubleshooting\Calculate Triangle Area\bin\Debug\Calculate Triangle Area.exe.config
+c:\users\petko\documents\visual studio 2015\Projects\Methods Debugging and Troubleshooting\Calculate Triangle Area\bin\Debug\Calculate Triangle Area.exe
+c:\users\petko\documents\visual studio 2015\Projects\Methods Debugging and Troubleshooting\Calculate Triangle Area\bin\Debug\Calculate Triangle Area.pdb
+c:\users\petko\documents\visual studio 2015\Projects\Methods Debugging and Troubleshooting\Calculate Triangle Area\obj\Debug\Calculate Triangle Area.exe
+c:\users\petko\documents\visual studio 2015\Projects\Methods Debugging and Troubleshooting\Calculate Triangle Area\obj\Debug\Calculate Triangle Area.pdb

@@ -1,0 +1,6 @@
+c:\users\petko\documents\visual studio 2015\Projects\Methods Debugging and Troubleshooting\Draw a filled square\bin\Debug\Draw a filled square.exe.config
+c:\users\petko\documents\visual studio 2015\Projects\Methods Debugging and Troubleshooting\Draw a filled square\bin\Debug\Draw a filled square.exe
+c:\users\petko\documents\visual studio 2015\Projects\Methods Debugging and Troubleshooting\Draw a filled square\bin\Debug\Draw a filled square.pdb
+c:\users\petko\documents\visual studio 2015\Projects\Methods Debugging and Troubleshooting\Draw a filled square\obj\Debug\Draw a filled square.csprojResolveAssemblyReference.cache
+c:\users\petko\documents\visual studio 2015\Projects\Methods Debugging and Troubleshooting\Draw a filled square\obj\Debug\Draw a filled square.exe
+c:\users\petko\documents\visual studio 2015\Projects\Methods Debugging and Troubleshooting\Draw a filled square\obj\Debug\Draw a filled square.pdb

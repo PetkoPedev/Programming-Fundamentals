@@ -1,0 +1,5 @@
+c:\users\petko\documents\visual studio 2015\Projects\Methods Debugging and Troubleshooting\Printing Triangle\bin\Debug\Printing Triangle.exe.config
+c:\users\petko\documents\visual studio 2015\Projects\Methods Debugging and Troubleshooting\Printing Triangle\bin\Debug\Printing Triangle.exe
+c:\users\petko\documents\visual studio 2015\Projects\Methods Debugging and Troubleshooting\Printing Triangle\bin\Debug\Printing Triangle.pdb
+c:\users\petko\documents\visual studio 2015\Projects\Methods Debugging and Troubleshooting\Printing Triangle\obj\Debug\Printing Triangle.exe
+c:\users\petko\documents\visual studio 2015\Projects\Methods Debugging and Troubleshooting\Printing Triangle\obj\Debug\Printing Triangle.pdb

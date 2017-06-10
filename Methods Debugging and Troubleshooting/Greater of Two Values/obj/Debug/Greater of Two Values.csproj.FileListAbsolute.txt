@@ -1,0 +1,6 @@
+c:\users\petko\documents\visual studio 2015\Projects\Methods Debugging and Troubleshooting\Greater of Two Values\bin\Debug\Greater of Two Values.exe.config
+c:\users\petko\documents\visual studio 2015\Projects\Methods Debugging and Troubleshooting\Greater of Two Values\bin\Debug\Greater of Two Values.exe
+c:\users\petko\documents\visual studio 2015\Projects\Methods Debugging and Troubleshooting\Greater of Two Values\bin\Debug\Greater of Two Values.pdb
+c:\users\petko\documents\visual studio 2015\Projects\Methods Debugging and Troubleshooting\Greater of Two Values\obj\Debug\Greater of Two Values.csprojResolveAssemblyReference.cache
+c:\users\petko\documents\visual studio 2015\Projects\Methods Debugging and Troubleshooting\Greater of Two Values\obj\Debug\Greater of Two Values.exe
+c:\users\petko\documents\visual studio 2015\Projects\Methods Debugging and Troubleshooting\Greater of Two Values\obj\Debug\Greater of Two Values.pdb

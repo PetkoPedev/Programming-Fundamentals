@@ -1,0 +1,6 @@
+c:\users\petko\documents\visual studio 2015\Projects\Methods Debugging and Troubleshooting\Math Power\bin\Debug\Math Power.exe.config
+c:\users\petko\documents\visual studio 2015\Projects\Methods Debugging and Troubleshooting\Math Power\bin\Debug\Math Power.exe
+c:\users\petko\documents\visual studio 2015\Projects\Methods Debugging and Troubleshooting\Math Power\bin\Debug\Math Power.pdb
+c:\users\petko\documents\visual studio 2015\Projects\Methods Debugging and Troubleshooting\Math Power\obj\Debug\Math Power.csprojResolveAssemblyReference.cache
+c:\users\petko\documents\visual studio 2015\Projects\Methods Debugging and Troubleshooting\Math Power\obj\Debug\Math Power.exe
+c:\users\petko\documents\visual studio 2015\Projects\Methods Debugging and Troubleshooting\Math Power\obj\Debug\Math Power.pdb

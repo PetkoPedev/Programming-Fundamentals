@@ -1,0 +1,6 @@
+c:\users\petko\documents\visual studio 2015\Projects\Methods Debugging and Troubleshooting\Price Change Alert\bin\Debug\Price Change Alert.exe.config
+c:\users\petko\documents\visual studio 2015\Projects\Methods Debugging and Troubleshooting\Price Change Alert\bin\Debug\Price Change Alert.exe
+c:\users\petko\documents\visual studio 2015\Projects\Methods Debugging and Troubleshooting\Price Change Alert\bin\Debug\Price Change Alert.pdb
+c:\users\petko\documents\visual studio 2015\Projects\Methods Debugging and Troubleshooting\Price Change Alert\obj\Debug\Price Change Alert.exe
+c:\users\petko\documents\visual studio 2015\Projects\Methods Debugging and Troubleshooting\Price Change Alert\obj\Debug\Price Change Alert.pdb
+c:\users\petko\documents\visual studio 2015\Projects\Methods Debugging and Troubleshooting\Price Change Alert\obj\Debug\Price Change Alert.csprojResolveAssemblyReference.cache
